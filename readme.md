@@ -1,193 +1,137 @@
-<!-- ===================== HEADER ===================== -->
+# Kushagra Sharoya
 
-<div align="center">
+> "Building strong fundamentals today to solve meaningful problems tomorrow."
 
-# Hi 👋 I'm **Kushagra Sharoya**
+I am a third-year Computer Science and Engineering student at ABES Engineering College, Ghaziabad, with a genuine interest in software engineering and problem solving.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Computer+Science+Student;Java+Developer+in+Progress;Open+Source+Enthusiast;Competitive+Programmer;Future+GitHub+Campus+Expert;Always+Learning+New+Things+🚀" />
+For me, programming is not just about writing code. It is about understanding problems, thinking logically, and creating solutions that have a real impact. Every project I build and every coding problem I solve is another step toward becoming a better engineer.
 
-<img src="https://komarev.com/ghpvc/?username=kushagrasharoya&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+I believe that continuous learning, consistency, and curiosity are the foundations of long-term growth in technology.
 
 ---
 
-<div align="center">
+## About Me
 
-## 🚀 "Code • Learn • Build • Repeat"
+I am currently focused on strengthening my problem-solving abilities while expanding my knowledge of modern software development.
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
-
-</div>
+My journey involves balancing technical learning with personal growth. Alongside programming, I actively work on communication, leadership, teamwork, and professional development because I believe great software engineers excel both technically and collaboratively.
 
 ---
 
-# 💫 About Me
+## What I'm Currently Working On
 
-🎓 **B.Tech Computer Science & Engineering** student at **ABES Engineering College**
-
-💻 Passionate about **Software Development**, **Open Source**, and **Competitive Programming**
-
-🚀 Currently building:
-- 🌍 **EcoInsight – Carbon Footprint Tracker**
-
-🎯 My goals:
-- Master Java & DSA
-- Solve 500+ LeetCode problems
-- Contribute to Open Source
-- Build impactful software projects
-- Secure a Software Development Internship
-
-💡 Interests:
-- Open Source
-- Competitive Programming
-- Software Development
-- Problem Solving
-
-✨ **Motto:**
-
-> *"Learn • Build • Share • Repeat 🚀"*
----
-
-# 🌱 Currently Working On
-
-✅ Java Development
-
-✅ Data Structures & Algorithms
-
-✅ Building EcoInsight 🌍
-
-✅ Open Source Contributions
-
-✅ Improving Development Skills
+- Improving Data Structures and Algorithms
+- Solving coding problems regularly
+- Learning advanced React concepts
+- Exploring software engineering best practices
+- Building projects inspired by real-world problems
+- Improving code quality and development workflow
 
 ---
 
-# ⚡ Tech Stack
+## Technical Skills
 
-<div align="center">
+### Programming Languages
 
-### Languages
+- C
+- C++
+- Java
+- Python
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js"/>
+### Frontend Development
 
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=bootstrap,react,nodejs"/>
+- HTML
+- CSS
+- JavaScript
+- React
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=kushagrasharoya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrasharoya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
-# 🔥 GitHub Streak
+## Featured Project
 
-<div align="center">
+### EcoInsight – Carbon Footprint Tracker
 
-<img src="https://streak-stats.demolab.com?user=kushagrasharoya&theme=tokyonight&hide_border=true"/>
+EcoInsight is a frontend web application that helps users understand their environmental impact by estimating their carbon footprint through daily lifestyle activities.
 
-</div>
+The project focuses on making environmental awareness more interactive through intuitive visualizations and a clean user experience.
 
----
+**Technologies Used**
 
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kushagrasharoya&theme=tokyo-night&hide_border=true"/>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kushagrasharoya&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
+- HTML
+- CSS
+- JavaScript
+- React
+- Chart.js
 
 ---
 
-# 💻 Competitive Programming
+## Coding Profiles
 
-<div align="center">
+**LeetCode**
 
-<a href="https://leetcode.com/u/k_sharoya/">
-<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+https://leetcode.com/u/k_sharoya/
 
-<a href="https://www.codechef.com/users/k_sharoya">
-<img src="https://img.shields.io/badge/CodeChef-Visit_Profile-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
+**CodeChef**
 
-<a href="https://www.hackerrank.com/profile/kushagrasharoya">
-<img src="https://img.shields.io/badge/HackerRank-Visit_Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
+https://www.codechef.com/users/k_sharoya
 
-</div>
+**HackerRank**
+
+https://www.hackerrank.com/profile/kushagrasharoya
 
 ---
 
-# 🌟 Featured Project
+## Connect With Me
 
-## 🌍 EcoInsight
+**LinkedIn**
 
-> Carbon Footprint Tracker
+https://www.linkedin.com/in/kushagrasharoya
 
-✨ Features
+**Email**
 
-- Smart Carbon Calculator
-- Interactive Charts
-- Local Storage
-- Dark Mode
-- Eco Recommendations
-- Carbon Analytics
+kushagrasharoya@gmail.com
 
 ---
 
-# 🤝 Connect With Me
+## What Drives Me
 
-<div align="center">
+I enjoy learning technologies that improve the way software is built, but I believe strong fundamentals matter more than chasing every new framework.
 
-<a href="https://github.com/kushagrasharoya">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+My goal is to become an engineer who can:
 
-<a href="https://leetcode.com/u/k_sharoya/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.codechef.com/users/k_sharoya">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/kushagrasharoya">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-</div>
+- Write clean and maintainable code
+- Solve complex problems efficiently
+- Build software that creates value
+- Learn continuously
+- Collaborate effectively with teams
 
 ---
 
-<div align="center">
+## Current Goals
 
-### ⭐ Thanks for visiting my profile!
+- Solve 1000+ programming problems
+- Strengthen Data Structures and Algorithms
+- Build impactful full-stack applications
+- Contribute to open-source projects
+- Gain industry experience through internships
+- Continue improving communication and leadership skills
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0080FF&height=120&section=footer"/>
+---
 
-</div>
+## Beyond Technology
+
+Outside of programming, I enjoy participating in technical communities, organizing events, collaborating with peers, and exploring emerging technologies.
+
+I believe that learning extends beyond classrooms and documentation. Every conversation, project, challenge, and collaboration offers an opportunity to grow.
+
+---
+
+> "Every repository represents something I learned.
+> Every project reflects a problem I tried to solve.
+> Every challenge makes me a better engineer than I was yesterday."
