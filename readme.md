@@ -10,10 +10,7 @@ Rather than chasing every new technology, I focus on mastering the fundamentals 
 
 ## About Me
 
-I am currently focused on strengthening my problem-solving abilities while expanding my knowledge of modern software development.
-
-My journey involves balancing technical learning with personal growth. Alongside programming, I actively work on communication, leadership, teamwork, and professional development because I believe great software engineers excel both technically and collaboratively.
----
+I’m a third-year Computer Science and Engineering student at ABES Engineering College, passionate about software engineering, problem solving, and building impactful solutions. I enjoy strengthening my DSA skills through competitive programming while exploring modern web technologies to create user-centric applications. Beyond coding, I continuously work on improving my communication, leadership, and teamwork skills, believing that great engineers grow through both technical excellence and collaboration. I'm always eager to learn, build, and contribute to meaningful projects that make a real-world impact.
 
 # What I'm Currently Working On
 
