@@ -1,0 +1,706 @@
+/* =======================================================
+   KUSHAGRA SHAROYA PORTFOLIO
+   Author : Kushagra Sharoya
+   Theme  : Blue AI Futuristic
+======================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    scroll-behavior:smooth;
+}
+
+:root{
+
+    --primary:#3B82F6;
+    --secondary:#60A5FA;
+    --dark:#0D1117;
+    --dark2:#161B22;
+    --card:#1C2128;
+    --white:#ffffff;
+    --gray:#c9d1d9;
+    --shadow:0 0 30px rgba(59,130,246,.25);
+
+}
+
+body{
+
+    font-family:'Poppins',sans-serif;
+    background:var(--dark);
+    color:white;
+    overflow-x:hidden;
+
+}
+
+a{
+    text-decoration:none;
+    color:white;
+}
+
+section{
+
+    width:100%;
+    padding:90px 10%;
+
+}
+
+h2{
+
+    font-size:42px;
+    margin-bottom:40px;
+    color:var(--primary);
+    text-align:center;
+.background{
+
+    position:fixed;
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+
+    background:
+    radial-gradient(circle at top left,#1e3a8a 0%,transparent 40%),
+    radial-gradient(circle at bottom right,#2563eb 0%,transparent 35%),
+    #0D1117;
+
+    z-index:-3;
+
+} 
+  .particles{
+
+position:fixed;
+
+width:100%;
+
+height:100%;
+
+background-image:
+
+radial-gradient(#3B82F6 1px,transparent 1px);
+
+background-size:40px 40px;
+
+opacity:.08;
+
+animation:moveParticles 50s linear infinite;
+
+z-index:-2;
+
+}
+
+@keyframes moveParticles{
+
+from{
+
+transform:translateY(0);
+
+}
+
+to{
+
+transform:translateY(-1200px);
+
+}
+
+}
+  nav{
+
+width:100%;
+
+position:fixed;
+
+top:0;
+
+left:0;
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:18px 8%;
+
+background:rgba(13,17,23,.75);
+
+backdrop-filter:blur(12px);
+
+z-index:999;
+
+border-bottom:1px solid rgba(255,255,255,.05);
+
+}
+
+.logo{
+
+font-size:28px;
+
+font-weight:700;
+
+color:var(--primary);
+
+}
+
+nav ul{
+
+display:flex;
+
+gap:35px;
+
+list-style:none;
+
+}
+
+nav ul li a{
+
+font-weight:500;
+
+transition:.3s;
+
+}
+
+nav ul li a:hover{
+
+color:var(--primary);
+
+}
+  .hero{
+
+min-height:100vh;
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+gap:70px;
+
+}
+
+.hero-left{
+
+flex:1;
+
+}
+
+.hero-right{
+
+flex:1;
+
+display:flex;
+
+justify-content:center;
+
+}
+  .hero h3{
+
+font-size:24px;
+
+color:var(--secondary);
+
+margin-bottom:15px;
+
+}
+
+.hero h1{
+
+font-size:70px;
+
+line-height:1.1;
+
+margin-bottom:20px;
+
+}
+
+.hero h1 span{
+
+color:var(--primary);
+
+}
+
+.hero h2{
+
+font-size:32px;
+
+margin:20px 0;
+
+text-align:left;
+
+color:white;
+
+}
+
+.hero p{
+
+font-size:18px;
+
+line-height:1.9;
+
+color:var(--gray);
+
+max-width:650px;
+
+margin-bottom:35px;
+
+}
+  .hero-right img{
+
+width:420px;
+
+border-radius:25px;
+
+box-shadow:var(--shadow);
+
+animation:float 5s ease-in-out infinite;
+
+}
+  @keyframes float{
+
+0%{
+
+transform:translateY(0);
+
+}
+
+50%{
+
+transform:translateY(-20px);
+
+}
+
+100%{
+
+transform:translateY(0);
+
+}
+
+}
+  .buttons{
+
+display:flex;
+
+gap:20px;
+
+}
+
+button{
+
+padding:15px 34px;
+
+font-size:17px;
+
+border-radius:12px;
+
+cursor:pointer;
+
+transition:.4s;
+
+font-weight:600;
+
+}
+
+.primary{
+
+background:var(--primary);
+
+color:white;
+
+border:none;
+
+}
+
+.primary:hover{
+
+transform:translateY(-6px);
+
+box-shadow:0 0 30px #3B82F6;
+
+}
+
+.secondary{
+
+background:transparent;
+
+border:2px solid var(--primary);
+
+color:white;
+
+}
+
+.secondary:hover{
+
+background:var(--primary);
+
+transform:translateY(-6px);
+
+}
+  @media(max-width:1000px){
+
+.hero{
+
+flex-direction:column-reverse;
+
+text-align:center;
+
+padding-top:120px;
+
+}
+
+.hero h2{
+
+text-align:center;
+
+}
+
+.hero p{
+
+margin:auto;
+
+}
+
+.buttons{
+
+justify-content:center;
+
+}
+
+.hero-right img{
+
+width:300px;
+
+}
+
+nav{
+
+padding:20px;
+
+}
+
+nav ul{
+
+display:none;
+
+}
+
+}
+  /* =======================================================
+   ABOUT SECTION
+======================================================= */
+
+#about{
+
+    text-align:center;
+
+}
+
+#about p{
+
+    max-width:900px;
+
+    margin:auto;
+
+    font-size:18px;
+
+    line-height:2;
+
+    color:var(--gray);
+
+}
+
+/* =======================================================
+   GLASSMORPHISM CARD
+======================================================= */
+
+.card,
+.project-card,
+.leader-card{
+
+    background:rgba(255,255,255,.05);
+
+    border:1px solid rgba(255,255,255,.08);
+
+    backdrop-filter:blur(20px);
+
+    border-radius:20px;
+
+    transition:.4s;
+
+    box-shadow:0 10px 35px rgba(0,0,0,.25);
+
+}
+
+.card:hover,
+.project-card:hover,
+.leader-card:hover{
+
+    transform:translateY(-10px);
+
+    border-color:var(--primary);
+
+    box-shadow:0 0 35px rgba(59,130,246,.45);
+
+}
+
+/* =======================================================
+   SKILLS
+======================================================= */
+
+.skill-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+
+    gap:30px;
+
+}
+
+.card{
+
+    padding:35px;
+
+    text-align:center;
+
+}
+
+.card h3{
+
+    color:var(--primary);
+
+    margin-bottom:20px;
+
+    font-size:26px;
+
+}
+
+.card p{
+
+    color:var(--gray);
+
+    line-height:2;
+
+    font-size:17px;
+
+}
+
+/* =======================================================
+   PROJECTS
+======================================================= */
+
+.project-card{
+
+    display:flex;
+
+    gap:40px;
+
+    align-items:center;
+
+    padding:35px;
+
+}
+
+.project-card img{
+
+    width:420px;
+
+    border-radius:18px;
+
+    transition:.4s;
+
+}
+
+.project-card img:hover{
+
+    transform:scale(1.03);
+
+}
+
+.project-card h3{
+
+    font-size:34px;
+
+    margin-bottom:15px;
+
+    color:var(--primary);
+
+}
+
+.project-card p{
+
+    color:var(--gray);
+
+    line-height:2;
+
+}
+
+/* =======================================================
+   LEADERSHIP
+======================================================= */
+
+.leader-card{
+
+    max-width:700px;
+
+    margin:auto;
+
+    text-align:center;
+
+    padding:40px;
+
+}
+
+.leader-card h3{
+
+    color:var(--primary);
+
+    font-size:32px;
+
+}
+
+.leader-card h4{
+
+    color:white;
+
+    margin:15px 0;
+
+}
+
+.leader-card p{
+
+    color:var(--gray);
+
+    line-height:2;
+
+}
+  /* =======================================================
+   HOVER EFFECTS
+======================================================= */
+
+.card:hover h3,
+.project-card:hover h3,
+.leader-card:hover h3{
+
+    color:#60A5FA;
+
+}
+
+.card:hover{
+
+    background:rgba(59,130,246,.08);
+
+}
+
+.project-card:hover{
+
+    background:rgba(59,130,246,.06);
+
+}
+
+.leader-card:hover{
+
+    background:rgba(59,130,246,.08);
+
+}
+
+  /* =======================================================
+   FADE ANIMATION
+======================================================= */
+
+section{
+
+    animation:fadeUp .9s ease;
+
+}
+
+@keyframes fadeUp{
+
+from{
+
+opacity:0;
+
+transform:translateY(60px);
+
+}
+
+to{
+
+opacity:1;
+
+transform:translateY(0);
+
+}
+
+}
+  /* =======================================================
+   RESPONSIVE
+======================================================= */
+
+@media(max-width:1000px){
+
+.project-card{
+
+flex-direction:column;
+
+text-align:center;
+
+}
+
+.project-card img{
+
+width:100%;
+
+}
+
+.skill-grid{
+
+grid-template-columns:1fr;
+
+}
+
+}
+  /* =======================================================
+   TEXT SELECTION
+======================================================= */
+
+::selection{
+
+background:var(--primary);
+
+color:white;
+
+}
+  /* =======================================================
+   SCROLLBAR
+======================================================= */
+
+::-webkit-scrollbar{
+
+width:12px;
+
+}
+
+::-webkit-scrollbar-track{
+
+background:#111827;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+background:#3B82F6;
+
+border-radius:20px;
+
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+background:#60A5FA;
+
+}
+  
+}
