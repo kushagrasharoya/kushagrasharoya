@@ -1,0 +1,32 @@
+name: Update Solar System
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"      # every 6 hours
+  workflow_dispatch:            # manual "Run workflow" button
+  push:
+    paths:
+      - "scripts/generate_solar_system.py"
+      - ".github/workflows/solar-system.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate hero.svg from public repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_solar_system.py "${{ github.repository_owner }}" assets/hero.svg
+      - name: Commit if changed
+        run: |
+          git config user.name  "solar-system-bot"
+          git config user.email "solar-system-bot@users.noreply.github.com"
+          git add assets/hero.svg
+          git diff --cached --quiet || (git commit -m "chore: update solar system" && git push)
