@@ -1,8 +1,3 @@
-<!-- ========================================================= -->
-<!--   KUSHAGRA SHAROYA · SOLAR SYSTEM PROFILE (@kushagrasharoya) -->
-<!--   Needs: assets/hero.svg  assets/divider.svg  assets/footer.svg -->
-<!-- ========================================================= -->
-
 <div align="center">
 
 <img src="assets/hero.svg" alt="Kushagra Sharoya - animated solar system" width="100%"/>
@@ -38,8 +33,6 @@ current_orbit:
 mission:       Build intelligent software that solves real-world problems
 fuel:          Curiosity · Consistency · Coffee
 ```
-
-<img src="assets/divider.svg" width="100%"/>
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -93,7 +86,7 @@ My first frontend mini-project: a web app that helps people understand their car
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&perline=7"/>
 
 **Frameworks · Backend · Data**<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&perline=4"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql&perline=4"/>
 
 **Tools · Platforms**<br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows&perline=6"/>
@@ -112,41 +105,7 @@ My first frontend mini-project: a web app that helps people understand their car
 
 <img src="https://streak-stats.demolab.com?user=kushagrasharoya&hide_border=true&background=0B1030&ring=FBBF24&fire=F97316&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=FBBF24&sideLabels=A78BFA&dates=9CA3AF"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kushagrasharoya&bg_color=0B1030&color=E5E7EB&line=FBBF24&point=A78BFA&area=true&area_color=6D28D9&hide_border=true&title_color=FBBF24"/>
-
 </div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## 🚀 Flight Plan
-
-```text
- LAUNCH PAD            ORBIT                 DEEP SPACE
-┌───────────────┐   ┌─────────────────┐   ┌──────────────────────┐
-│ Java · DSA    │ → │ React · Node    │ → │ Machine Learning     │
-│ Python · Git  │   │ REST APIs · SQL │   │ Deep Learning · LLMs │
-└───────────────┘   └─────────────────┘   │ AI Agents · RAG      │
-                                          └──────────────────────┘
-```
-
-<img src="assets/divider.svg" width="100%"/>
-
-## 👨‍🚀 Crew & Community
-
-**Public Relations Coordinator, CodeChef ABES Chapter**
-Promoting technical events, coordinating teams, growing student participation and managing event communication.
-
-<div align="center">
-
-| Technical Skills | Crew Skills |
-|:--|:--|
-| Problem solving · Git & GitHub | Communication · Teamwork |
-| Web development · Debugging | Leadership · Public speaking |
-| Software development | Time management · Collaboration |
-
-</div>
-
-<img src="assets/divider.svg" width="100%"/>
 
 <img src="assets/divider.svg" width="100%"/>
 
