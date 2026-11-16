@@ -11,20 +11,6 @@
 
 I'm a Computer Science student and Python developer. I build software with a focus on backend systems and AI-driven applications, and I learn best by shipping real projects.
 
-**Currently building**
-
-- **Knowledge-Driven IoT Fault-Diagnosis Assistant**: a Python-based assistant for diagnosing faults in IoT systems
-- **Interview-Agent**: an AI interview agent that uses candidate profiles and curriculum data
-
-**Focus areas**
-
-| Area | What I'm working on |
-|:--|:--|
-| Software Engineering | Data structures and algorithms, clean and maintainable code |
-| Backend | REST APIs, Node.js, Express, databases |
-| Artificial Intelligence | Machine learning fundamentals, LLM-based applications, AI agents |
-| Open Source | Preparing for my first contributions |
-
 <img src="assets/divider.svg" width="100%"/>
 
 ## Projects
@@ -73,10 +59,7 @@ The banner is generated automatically from my public repositories.
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&perline=4"/>
 
 **Tools and Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,arch,windows&perline=6"/>
-
-**Learning next**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws&perline=4"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows&perline=6"/>
 
 </div>
 
@@ -99,10 +82,10 @@ I'm open to collaboration, open-source work, and conversations about software an
 <div align="center">
 
 <a href="https://github.com/kushagrasharoya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kushagrasharoya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/k_sharoya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.codechef.com/users/k_sharoya"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 <br/><br/>
 
