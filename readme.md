@@ -41,18 +41,9 @@ fuel:          Curiosity · Consistency · Coffee
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 🌍 Solar System Map
-
-| Body | Meaning here | Details |
-|:--|:--|:--|
-| ☀️ **The Sun** | Me | Python developer, learning in public |
-| 🪐 **Planets** | Languages | Python · HTML · JavaScript · CSS (Java, C, C++ in orbit) |
-| 🌙 **Moons** | Projects | Each repo circles one language |
-| ☄️ **Comets** | Recent pushes | Fresh commits streaking by |
-
 <img src="assets/divider.svg" width="100%"/>
 
-## 🌙 Moons — Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -72,12 +63,12 @@ fuel:          Curiosity · Consistency · Coffee
 
 </div>
 
-| Moon | Project | Orbits | What it does |
+| Project | Orbits | What it does |
 |:--:|:--|:--|:--|
-| 🌙 01 | **Knowledge-Driven IoT Fault-Diagnosis Assistant** | Python | Knowledge-driven assistant for diagnosing IoT faults *(in progress)* |
-| 🌙 02 | **Interview-Agent** | Python | AI interview agent that uses candidate profiles and curriculum data |
-| 🌙 03 | **EcoInsight** | JavaScript | Carbon-footprint tracker with a dashboard, What-If simulation, country-specific intensity, monthly trends, Chart.js charts and dark/light theme |
-| 🌙 04 | **WT** | HTML | Web project *(in progress)* |
+|  01 | **Knowledge-Driven IoT Fault-Diagnosis Assistant** | Python | Knowledge-driven assistant for diagnosing IoT faults *(in progress)* |
+|  02 | **Interview-Agent** | Python | AI interview agent that uses candidate profiles and curriculum data |
+|  03 | **EcoInsight** | JavaScript | Carbon-footprint tracker with a dashboard, What-If simulation, country-specific intensity, monthly trends, Chart.js charts and dark/light theme |
+|  04 | **WT** | HTML | Web project *(in progress)* |
 
 <details>
 <summary><b>🔭 EcoInsight — deep dive</b></summary>
@@ -94,7 +85,7 @@ My first frontend mini-project: a web app that helps people understand their car
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 🛰️ Planets — Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -105,21 +96,10 @@ My first frontend mini-project: a web app that helps people understand their car
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql&perline=4"/>
 
 **Tools · Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,arch,windows&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows&perline=6"/>
 
-**Next in orbit 🚀**<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,docker,aws&perline=4"/>
 
 </div>
-
-| Orbit | Status |
-|:--|:--|
-| 🪐 Python | Primary, building AI projects |
-| 🪐 Java | Strengthening (DSA) |
-| 🪐 C / C++ | Practising |
-| 🪐 HTML / CSS / JavaScript | Comfortable → Improving |
-| 🪐 React · Node · Express | Learning |
-| 🪐 ML / Deep Learning | Beginner, long-term goal |
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -149,25 +129,6 @@ My first frontend mini-project: a web app that helps people understand their car
                                           └──────────────────────┘
 ```
 
-| Stage | Focus | Progress |
-|:--|:--|:--|
-| 🟡 Stage 1 | Java, DSA, Python fundamentals | `██████████████░░░░░░` |
-| 🟣 Stage 2 | Frontend and React | `███████████████░░░░░` |
-| 🔵 Stage 3 | Backend, REST APIs, databases | `████████░░░░░░░░░░░░` |
-| 🟢 Stage 4 | AI / ML, agents, RAG | `██████░░░░░░░░░░░░░░` |
-
-<sub>Bars show my personal learning journey, not exact proficiency.</sub>
-
-### 🎯 2026 Objectives
-
-- [x] Ship first frontend project (EcoInsight)
-- [x] Start building AI agent projects (Interview-Agent)
-- [ ] Build a production-ready full-stack app
-- [ ] Learn backend and system-design fundamentals
-- [ ] Solve DSA problems consistently
-- [ ] Make first open-source contribution
-- [ ] Take part in a hackathon
-
 <img src="assets/divider.svg" width="100%"/>
 
 ## 👨‍🚀 Crew & Community
@@ -186,17 +147,6 @@ Promoting technical events, coordinating teams, growing student participation an
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
-
-## 🧭 Engineering Principles
-
-| 🛰️ | Principle |
-|:--:|:--|
-| ⚙️ | **Fundamentals first**: understand before using frameworks |
-| 🔨 | **Build to learn**: every project teaches something |
-| ♻️ | **Keep improving**: refactor, document, repeat |
-| 🔭 | **Stay curious**: ask "why" and "how" |
-
-> *"Small improvements every day lead to remarkable results over time."*
 
 <img src="assets/divider.svg" width="100%"/>
 
