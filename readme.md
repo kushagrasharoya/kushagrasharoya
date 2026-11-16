@@ -3,10 +3,6 @@
 <img src="assets/hero.svg" alt="Kushagra Sharoya" width="100%"/>
 
 <br/>
-
-<a href="https://github.com/kushagrasharoya"><img src="https://img.shields.io/github/followers/kushagrasharoya?style=for-the-badge&logo=github&logoColor=white&color=6D28D9&labelColor=0B1030"/></a>
-<img src="https://komarev.com/ghpvc/?username=kushagrasharoya&style=for-the-badge&color=FBBF24&label=PROFILE+VIEWS&labelColor=0B1030"/>
-
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
@@ -93,48 +89,6 @@ The banner is generated automatically from my public repositories.
 <img src="https://streak-stats.demolab.com?user=kushagrasharoya&hide_border=true&background=0B1030&ring=FBBF24&fire=F97316&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=FBBF24&sideLabels=A78BFA&dates=9CA3AF"/>
 
 </div>
-
-<img src="assets/divider.svg" width="100%"/>
-
-## Learning Roadmap
-
-```text
- FOUNDATIONS             BUILD                  SPECIALIZE
-┌───────────────┐   ┌─────────────────┐   ┌──────────────────────┐
-│ Java · DSA    │ → │ React · Node    │ → │ Machine Learning     │
-│ Python · Git  │   │ REST APIs · SQL │   │ Deep Learning · LLMs │
-└───────────────┘   └─────────────────┘   │ AI Agents · RAG      │
-                                          └──────────────────────┘
-```
-
-| Stage | Focus | Progress |
-|:--|:--|:--|
-| Foundations | Java, DSA, Python | `██████████████░░░░░░` |
-| Frontend | HTML, CSS, JavaScript, React | `███████████████░░░░░` |
-| Backend | Node.js, REST APIs, databases | `████████░░░░░░░░░░░░` |
-| AI / ML | ML fundamentals, agents, RAG | `██████░░░░░░░░░░░░░░` |
-
-<sub>Bars reflect my own learning progress, not exact proficiency.</sub>
-
-**2026 goals**
-
-- [x] Ship a first frontend project (EcoInsight)
-- [x] Start building AI agent projects (Interview-Agent)
-- [ ] Build a production-ready full-stack application
-- [ ] Learn backend and system design fundamentals
-- [ ] Solve DSA problems consistently
-- [ ] Make a first open-source contribution
-- [ ] Participate in a hackathon
-
-<img src="assets/divider.svg" width="100%"/>
-
-## Experience and Community
-
-**Public Relations Coordinator, CodeChef ABES Chapter**
-
-- Promote technical events and increase student participation
-- Coordinate with teams and manage event communication
-- Support planning and execution of campus technical events
 
 <img src="assets/divider.svg" width="100%"/>
 
